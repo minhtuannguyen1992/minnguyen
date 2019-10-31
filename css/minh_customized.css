@@ -42,5 +42,10 @@ h1{
 }
 img.hero-image{
     margin-top: 100px !important;
-    margin-right: 200px !important;
+  
 }
+@media (max-width: 991px){
+.navigations {
+    padding: 20px;
+    background: black;
+}}
