@@ -1,0 +1,46 @@
+.footer-section{
+    padding-top:0px
+}
+.navigation.nav-bg{
+    background-color:#000
+}
+
+.bg-primary{
+    background-color: #000 !important;
+}
+.hero-image{
+    background-image:url("../images/hero.jpg")!important;
+    height: 700px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat !important; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+body{
+    background-color:black;
+}
+h2{
+    color: white;
+}
+.text-dark{ 
+    color:white !important;
+}
+.btn-transparent{
+    color:white;
+}
+h4{
+    color:white;
+}
+.text-light{
+    color:white !important;
+}
+p{
+    color:white;
+}
+h1{
+    font-size: 50px;
+    float: right;
+}
+img.hero-image{
+    margin-top: 100px !important;
+    margin-right: 200px !important;
+}
